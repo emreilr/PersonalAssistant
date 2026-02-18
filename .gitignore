@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Data Files (Personal Data)
+data/
+*.csv
+*.tsv
+
+# Other IDEs
+.idea/
+*.vscode/
+
+# System Files
+Thumbs.db
+Desktop.ini
+
+# Executables
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
